@@ -128,7 +128,7 @@ repo.
 
 ##  Persistence
 
-If you are going to use the `hubot-redis-brain` package (strongly suggested),
+If you are going to use the `hubot-redis-brain` package (strongerly suggested),
 you will need to add the Redis to Go addon on Heroku which requires a verified
 account or you can create an account at [Redis to Go][redistogo] and manually
 set the `REDISTOGO_URL` variable.
